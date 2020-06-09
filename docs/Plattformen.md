@@ -5,6 +5,10 @@ nav_order: 4
 ---
 
 ## Welche Plattformen können zur Veröffentlichung genutzt werden?
+{: .no_toc }
+
+## Inhaltsverzeichnise
+{: .no_toc .text-delta }
 
 Für OER-Materialien gibt es mittlerweile sehr viele Möglichkeiten diese zu veröffentlichen. Klassischerweise sind dabei immer noch Austauschplattformen wie [4teachers.de](www.4teachers.de) oder auch die eigene Website zu nennen. Diese sind einfach in der Handhabung sind jedoch manchmal begrenzt in der Art und Weise wie Inhalte publiziert werden können. Oder sie erzielen nicht den gleichen gewünschten Reichweiteneffekt, wie Plattformen, die gleichzeitig auch Autorenwerkzeuge zur Verfügung stellen.
 
