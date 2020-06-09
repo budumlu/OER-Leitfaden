@@ -1,5 +1,5 @@
 ---
-title: 3. Freie Inhalte
+title: 3. Wo finden sich freie Inhalte?
 has_children: false
 nav_order: 3
 ---
