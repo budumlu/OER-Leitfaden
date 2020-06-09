@@ -8,7 +8,7 @@ nav_order: 4
 {: .no_toc }
 
 ## Inhaltsverzeichnis
-{: .no_toc .text-delta }
+{:toc .text-delta }
 
 
 
