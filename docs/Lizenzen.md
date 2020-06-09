@@ -1,5 +1,5 @@
 ---
-title: Lizenzen
+title: 2. Welche Lizenzen gibt es?
 has_children: false
 nav_order: 2
 ---

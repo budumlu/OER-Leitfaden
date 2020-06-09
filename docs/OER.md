@@ -1,5 +1,5 @@
 ---
-title: OER
+title: 1. Was sind OER?
 has_children: false
 nav_order: 1
 ---

@@ -1,5 +1,5 @@
 ---
-title: Plattformen
+title: 4. Welche Plattformen gibt es?
 has_children: false
 nav_order: 4
 ---
