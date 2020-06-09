@@ -21,6 +21,5 @@ Der folgende Film beschreibt kurz den Nutzen den OER im Bildungskontext haben.
 <iframe width="420" height="315" src="//www.youtube.com/embed/1WnZD7E8FKY" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 
-{% hint style="info" %}
+
 Text \(Übersetzung, Anpassung und vorsichtige Erweiterung\) von Jöran Muuß-Merholz für [www.open-educational-resources.de](http://www.open-educational-resources.de) – Transferstelle für OER unter [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/). Das Ausgangsmaterial stammt von David Wiley. / This material is based on original writing by David Wiley, which was published freely under a [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/) at [http://www.opencontent.org/definition/](http://www.opencontent.org/definition/)
-{% endhint %}
