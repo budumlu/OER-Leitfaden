@@ -14,7 +14,7 @@ OER steht für **O**pen **E**ducational **R**esources und kann mittlerweile als 
 4. **Vermischen** – das Recht, einen Inhalt im Original oder in einer Bearbeitung mit anderen offenen Inhalten zu verbinden und aus ihnen etwas Neues zu schaffen \(z.B. beim Einbauen von Bildern und Musik in ein Video\)
 5. **Verbreiten** – das Recht, Kopien eines Inhalts mit Anderen zu teilen, im Original oder in eigenen Überarbeitungen \(z.B. einem Freund eine Kopie zu geben oder online zu veröffentlichen\)
 
-![Infografik zu den 5V-Freiheiten](.gitbook/assets/20180111infografik_5v.png)
+![Infografik zu den 5V-Freiheiten](./.assets/20180111infografik_5v.png)
 
 Der folgende Film beschreibt kurz den Nutzen den OER im Bildungskontext haben.
 

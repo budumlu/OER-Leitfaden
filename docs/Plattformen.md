@@ -48,7 +48,7 @@ Wie Tutory.de so ist auch GitBook eine kommerzielle Plattform. Auf dieser Plattf
 
 Die hier abgebildete Grafik zeigt alle Elemente, die in GitBook eingefügt werden können.
 
-![Einf&#xFC;gemen&#xFC; von GitBook.com](./assets/bildschirmfoto-2019-03-05-um-12.09.52.png)
+![Einf&#xFC;gemen&#xFC; von GitBook.com](./.assets/bildschirmfoto-2019-03-05-um-12.09.52.png)
 
 Wer jedoch eine eigenen Webspace zur Verfügung hat und sich technisch nicht scheut, könnte sich alternativ in elearn.js einarbeiten:
 
