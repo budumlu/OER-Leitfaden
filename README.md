@@ -9,7 +9,8 @@ Dieser Leitfaden soll dazu dienen, einen guten Überblick über die Erstellung e
 * [Wo finden sich freie Inhalte, die verwendet werden können?](docs/FreieInhalte.html)
 * [Welche Plattformen können zur Veröffentlichung genutzt werden?](docs/Lizenzen.html)
 
-### Lizenz
+#### Lizenz
 
-Dieser OER-Leitfaden ist mit Ausnahme der verwendeten Bilder, Videos und Quizze lizensiert unter der [Creative Commons Zero 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0).
-<img style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc-cc0_icon.svg" />
+Der OER-Leitfaden von Torsten Budumlu ist lizenziert unter einer [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 Internationale Lizenz](http://creativecommons.org/licenses/by-sa/4.0/).
+
+![](https://budumlu.github.io/OER-Leitfaden/assets/88x31.png)

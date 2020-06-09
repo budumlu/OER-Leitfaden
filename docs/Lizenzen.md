@@ -4,7 +4,7 @@ has_children: false
 nav_order: 2
 ---
 
-# Welche Lizenzen gibt es?
+## Welche Lizenzen gibt es?
 
 ### Lizenzwahl
 
@@ -22,6 +22,10 @@ Auf [open-educational-resources.de](https://open-educational-resources.de/welche
 > Immer mehr Projekte orientieren sich an den Vorgaben der [_Open Definition_](http://opendefinition.org/od/1.1/de/) der Open Knowledge Foundation. Ihr zufolge darf die Lizenz keine Personen, Gruppen oder Einsatzzwecke ausschließen, wie es z.B. durch die CC-Einschränkung NC \(„nur für nicht-kommerzielle Zwecke“\) geschieht. Damit bleiben unter den [sechs Creative-Commons-Lizenzen](https://creativecommons.org/licenses/?lang=de) nur noch zwei übrig: die [CC BY](https://creativecommons.org/licenses/by/4.0/) und die [CC BY SA](https://creativecommons.org/licenses/by-sa/4.0/). Für BY SA spricht die langfristige Wirkung: Auch Weiterbearbeitungen müssen wieder unter freier Lizenz stehen. Allerdings ist auch das eine Einschränkung, die in der Praxis gerade bei der Kombination verschiedener Inhalte behindert. Vielleicht ist das der Grund, warum immer mehr Projekte, zumindest in den USA, die CC BY Lizenz nutzen.
 
 Insbesondere die Einschränkung "NC" verhindert zum Beispiel die Nutzung von Materialien an Privatschulen.
+
+###Lizenzen lassen sich kombinieren
+Die folgende Grafik gibt an, welche 
+![](https://creativecommons.org/faq/CC_License_Compatibility_Chart.png)
 
 ### Lizenzhinweise
 

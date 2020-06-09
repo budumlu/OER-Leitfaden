@@ -4,7 +4,7 @@ has_children: false
 nav_order: 1
 ---
 
-# Was sind OER?
+## Was sind OER?
 
 OER steht für **O**pen **E**ducational **R**esources und kann mittlerweile als eine weltweite, lose Bewegung gesehen werden, in der verschiedenste Akteure sich dafür engagieren, dass Bildungsmaterialien unter freien Lizenzen frei ausgetauscht werden können. Dabei stehen 5 V-Freiheiten \(im Englischen 5 Rs\) im Zentrum:
 
