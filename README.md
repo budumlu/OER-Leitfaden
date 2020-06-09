@@ -13,4 +13,4 @@ Dieser Leitfaden soll dazu dienen, einen guten Überblick über die Erstellung e
 
 Der OER-Leitfaden von Torsten Budumlu ist lizenziert unter einer [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 Internationale Lizenz](http://creativecommons.org/licenses/by-sa/4.0/).
 
-![](.assets/88x31.png)
+![](https://budumlu.github.io/OER-Leitfaden/.assets/88x31.png)
