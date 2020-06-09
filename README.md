@@ -1,6 +1,6 @@
 # Einleitung
 
-![https://fortbildung.lernraumzeit.de/oer-leitfaden](./assets/qr-code.png)
+![https://fortbildung.lernraumzeit.de/oer-leitfaden](./assets/qr-oer.png)
 
 Dieser Leitfaden soll dazu dienen, einen guten Überblick über die Erstellung eigener "offener Lehr-/Lernmaterialien", kurz OER \(Open Educational Resources\), zu bekommen. Dabei befasst sich dieser Leitfaden schwerpunktmäßig mit folgenden Themen:
 
