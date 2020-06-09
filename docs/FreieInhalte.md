@@ -12,7 +12,7 @@ Freie Inhalte sind auf den verschiedensten Plattformen leicht zu finden. So kön
 * youtube.de
 * soundcloud.com
 * pixabay.com
-* flickr.com
+* unsplash.com
 
 Empfohlen werden kann aber auch die Creative-Commons-Suchmaschine. Hier kann nach verschiedenen Quellen vorgefiltert gesucht werden. Allerdings ist hier die Suche auf Englisch häufig erfolgreicher.
 
