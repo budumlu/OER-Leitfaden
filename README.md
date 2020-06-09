@@ -7,7 +7,7 @@ Dieser Leitfaden soll dazu dienen, einen guten Überblick über die Erstellung e
 * [Was sind OER?](docs/OER.html)
 * [Welche Lizenzen gibt es?](docs/Lizenzen.html)
 * [Wo finden sich freie Inhalte, die verwendet werden können?](docs/FreieInhalte.html)
-* [Welche Plattformen können zur Veröffentlichung genutzt werden?](docs/Lizenzen.html)
+* [Welche Plattformen können zur Veröffentlichung genutzt werden?](docs/Plattformen.html)
 
 ### Lizenz
 
