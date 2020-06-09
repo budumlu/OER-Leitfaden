@@ -13,7 +13,7 @@ Wie im Einstiegsfilm bereits erklärt wurde, gibt es verschiedene Lizenzen für 
 Die folgende Infografik stellt die 6 verschiedenen Creative-Commons-Lizenzen anschaulich dar, so dass man für den eigenen Zweck das geeignetste Lizenzmodell leicht herausfinden kann.
 
 ![](https://budumlu.github.io/OER-Leitfaden/assets/creative_commons__deutsch.png)
-Lizenzhinweis: Die 6 Creative-Commons-Lizenzen. Infografik &#x201E;Welches ist die richtige CC-Lizenz f&#xFC;r mich?&#x201C; \(Grafik von Barbara Klute und J&#xF6;ran Muu&#xDF;-Merholz f&#xFC;r wb-web unter CC BY SA 3.0\
+Lizenzhinweis: Die 6 Creative-Commons-Lizenzen. Infografik &#x201E;Welches ist die richtige CC-Lizenz f&#xFC;r mich?&#x201C; \(Grafik von Barbara Klute und J&#xF6;ran Muu&#xDF;-Merholz f&#xFC;r wb-web unter CC BY SA 3.0\)
 
 Auf [open-educational-resources.de](https://open-educational-resources.de/welche-ist-die-oer-lizenz-der-trend-geht-zu-cc/) schreibt Jöran Muuß-Mehrholz zur Lizenzwahl:
 
