@@ -1,3 +1,9 @@
+---
+title: Lizenzen
+has_children: false
+nav_order: 2
+---
+
 # Welche Lizenzen gibt es?
 
 ### Lizenzwahl
@@ -6,7 +12,7 @@ Wie im Einstiegsfilm bereits erklärt wurde, gibt es verschiedene Lizenzen für 
 
 Die folgende Infografik stellt die 6 verschiedenen Creative-Commons-Lizenzen anschaulich dar, so dass man für den eigenen Zweck das geeignetste Lizenzmodell leicht herausfinden kann.
 
-![Die 6 Creative-Commons-Lizenzen. Infografik &#x201E;Welches ist die richtige CC-Lizenz f&#xFC;r mich?&#x201C; \(Grafik von Barbara Klute und J&#xF6;ran Muu&#xDF;-Merholz f&#xFC;r wb-web unter CC BY SA 3.0\)](.gitbook/assets/creative_commons__deutsch.png)
+![Die 6 Creative-Commons-Lizenzen. Infografik &#x201E;Welches ist die richtige CC-Lizenz f&#xFC;r mich?&#x201C; \(Grafik von Barbara Klute und J&#xF6;ran Muu&#xDF;-Merholz f&#xFC;r wb-web unter CC BY SA 3.0\)](./assets/creative_commons__deutsch.png)
 
 Auf [open-educational-resources.de](https://open-educational-resources.de/welche-ist-die-oer-lizenz-der-trend-geht-zu-cc/) schreibt Jöran Muuß-Mehrholz zur Lizenzwahl:
 
@@ -33,6 +39,3 @@ Möchte man ein Bild von Wikipedia für ein OER-Material verwenden, so sollte ma
 Detailliertere Hinweise zum Lizenzrecht können auch auf irights.info nachgelesen werden:
 
 * [https://irights.info/artikel/kombinieren-bearbeiten-remixen-oer-richtig-verwenden/28560](https://irights.info/artikel/kombinieren-bearbeiten-remixen-oer-richtig-verwenden/28560)
-
-
-

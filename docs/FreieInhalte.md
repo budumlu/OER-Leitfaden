@@ -1,3 +1,9 @@
+---
+title: Inhalte
+has_children: false
+nav_order: 3
+---
+
 # Wo finden sich freie Inhalte, die verwendet werden können?
 
 Freie Inhalte sind auf den verschiedensten Plattformen leicht zu finden. So können Suchinhalte mit den Suchmaschinen häufig bereits nach verschiedenen Lizenzen gefiltert werden. Dies ist zum Beispiel möglich auf
@@ -16,8 +22,3 @@ Empfohlen werden kann aber auch die Creative-Commons-Suchmaschine. Hier kann nac
 Eine umfassende Übersicht zu Quellen mit freien Inhalten findet sich derzeit auf
 
 * [https://open-educational-resources.de/materialien/oer-verzeichnisse-und-services/](https://open-educational-resources.de/materialien/oer-verzeichnisse-und-services/)
-
-
-
-
-

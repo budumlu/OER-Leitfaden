@@ -1,3 +1,9 @@
+---
+title: Plattformen
+has_children: false
+nav_order: 4
+---
+
 # Welche Plattformen können zur Veröffentlichung genutzt werden?
 
 Für OER-Materialien gibt es mittlerweile sehr viele Möglichkeiten diese zu veröffentlichen. Klassischerweise sind dabei immer noch Austauschplattformen wie [4teachers.de](www.4teachers.de) oder auch die eigene Website zu nennen. Diese sind einfach in der Handhabung sind jedoch manchmal begrenzt in der Art und Weise wie Inhalte publiziert werden können. Oder sie erzielen nicht den gleichen gewünschten Reichweiteneffekt, wie Plattformen, die gleichzeitig auch Autorenwerkzeuge zur Verfügung stellen.
@@ -42,7 +48,7 @@ Wie Tutory.de so ist auch GitBook eine kommerzielle Plattform. Auf dieser Plattf
 
 Die hier abgebildete Grafik zeigt alle Elemente, die in GitBook eingefügt werden können.
 
-![Einf&#xFC;gemen&#xFC; von GitBook.com](.gitbook/assets/bildschirmfoto-2019-03-05-um-12.09.52.png)
+![Einf&#xFC;gemen&#xFC; von GitBook.com](./assets/bildschirmfoto-2019-03-05-um-12.09.52.png)
 
 Wer jedoch eine eigenen Webspace zur Verfügung hat und sich technisch nicht scheut, könnte sich alternativ in elearn.js einarbeiten:
 
@@ -63,7 +69,4 @@ Als Beispiel zu Learningapps.org nun ein kleines OER-Quiz zum Abschluss:
 
 Zum Abschluss gibt es dann noch ein kleines Quiz, dass auf der Plattform learningsapps.org erstellt wurde:
 
-{% embed url="https://learningapps.org/view3035085" %}
-
-
-
+<iframe src="https://learningapps.org/watch?app=3035085" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>

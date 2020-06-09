@@ -1,3 +1,9 @@
+---
+title: OER
+has_children: false
+nav_order: 1
+---
+
 # Was sind OER?
 
 OER steht für **O**pen **E**ducational **R**esources und kann mittlerweile als eine weltweite, lose Bewegung gesehen werden, in der verschiedenste Akteure sich dafür engagieren, dass Bildungsmaterialien unter freien Lizenzen frei ausgetauscht werden können. Dabei stehen 5 V-Freiheiten \(im Englischen 5 Rs\) im Zentrum:
@@ -12,11 +18,9 @@ OER steht für **O**pen **E**ducational **R**esources und kann mittlerweile als 
 
 Der folgende Film beschreibt kurz den Nutzen den OER im Bildungskontext haben.
 
-{% embed url="https://www.youtube-nocookie.com/embed/1WnZD7E8FKY" %}
-
+<iframe width="420" height="315" src="//www.youtube.com/embed/1WnZD7E8FKY" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 
 {% hint style="info" %}
 Text \(Übersetzung, Anpassung und vorsichtige Erweiterung\) von Jöran Muuß-Merholz für [www.open-educational-resources.de](http://www.open-educational-resources.de) – Transferstelle für OER unter [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/). Das Ausgangsmaterial stammt von David Wiley. / This material is based on original writing by David Wiley, which was published freely under a [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/) at [http://www.opencontent.org/definition/](http://www.opencontent.org/definition/)
 {% endhint %}
-

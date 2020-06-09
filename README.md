@@ -1,37 +1,16 @@
+# Einleitung
 
+![https://fortbildung.lernraumzeit.de/oer-leitfaden](.gitbook/assets/qr-code.png)
 
-## Herzlich Willkommen zur OER-Buchvorlage
+Dieser Leitfaden soll dazu dienen, einen guten Überblick über die Erstellung eigener "offener Lehr-/Lernmaterialien", kurz OER \(Open Educational Resources\), zu bekommen. Dabei befasst sich dieser Leitfaden schwerpunktmäßig mit folgenden Themen:
 
-Diese [Buchvorlage](https://github.com/budumlu/OER-Buch-Vorlage/edit/master/README.md) kann frei verwendet werden.
+* [Was sind OER?](was-sind-oer.md)
+* [Welche Lizenzen gibt es?](untitled.md)
+* [Wo finden sich freie Inhalte, die verwendet werden können?](untitled-1.md)
+* [Welche Plattformen können zur Veröffentlichung genutzt werden?](lizenzen-kombinieren.md)
 
-### Markdown
+#### Lizenz
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Der OER-Leitfaden von Torsten Budumlu ist lizenziert unter einer [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 Internationale Lizenz](http://creativecommons.org/licenses/by-sa/4.0/).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/budumlu/Thymio-Book/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](.gitbook/assets/88x31.png)
