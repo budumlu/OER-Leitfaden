@@ -12,4 +12,4 @@ Dieser Leitfaden soll dazu dienen, einen guten Überblick über die Erstellung e
 ### Lizenz
 
 Dieser OER-Leitfaden ist mit Ausnahme der verwendeten Bilder, Videos und Quizze lizensiert unter der [Creative Commons Zero 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0).
-<img style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc-cc0_icon.svg" /></a></p>
+<img style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc-cc0_icon.svg" />
